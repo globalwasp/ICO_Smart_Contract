@@ -84,5 +84,3 @@
 `9` Контракт GloWToken и GlowSale готов к работе;
 
 `10` Для изменения параметров использовать сеттеры функций с 17 по 23.
-
-[Результаты тестов](https://github.com/elephant-marketing/Global_smart/blob/master/tests.txt)
